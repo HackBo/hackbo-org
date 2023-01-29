@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Main
 
 
@@ -216,4 +215,3 @@ For more information about this issue:
 
 - This issue is tracked in [Gitlab Hugo template fails CI/CD build with "latest" docker version](https://gitlab.com/pages/hugo/-/issues/69).
 - For discussions about fixing the problem in Hugo, and proposals to potentially resolve these issues, read [proposal: spec: allow type parameters in methods](https://github.com/golang/go/issues/49085).
->>>>>>> upstream/main
