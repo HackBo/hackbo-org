@@ -4,3 +4,4 @@ themes/ananke
 go.mod
 go.sum
 resources/_gen
+*.swp
