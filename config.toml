@@ -5,7 +5,7 @@ theme = "color-your-world"
 author = "@Hackbo"
 copyright = "© 2023 Hackbo"
 paginate = 3
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "es"
 enableEmoji = true
 enableInlineShortcodes = true
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
@@ -198,7 +198,7 @@ sectionPagesMenu = "main"
 
       [[languages.es.menu.main]]
         name = "Contact"
-        weight = 3
+        weight = 2
         url = "contact/" 
 	
   [languages.en]
@@ -214,5 +214,5 @@ sectionPagesMenu = "main"
 
       [[languages.en.menu.main]]
         name = "Contact"
-        weight = 3
+        weight = 2
         url = "contact/" 

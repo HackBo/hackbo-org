@@ -1,8 +1,8 @@
 ---
 
-title           : "Contact"
+title           : "Contactp"
 
-description     : "See how to contact us."
+description     : "Alternativas para contactarnos"
 
 cover           : "hackbo_lantern.png"
 
@@ -16,6 +16,6 @@ sitemapExclude  : true
 
 ---
 
-Or drop us a email:
+Or envíanos un email:
 
 {{< contact-form >}}
