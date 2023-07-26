@@ -197,11 +197,6 @@ sectionPagesMenu = "main"
         url = "/"
 
       [[languages.es.menu.main]]
-        name = "Posts"
-        weight = 2
-        url = "posts/"
-      
-      [[languages.es.menu.main]]
         name = "Contact"
         weight = 3
         url = "contact/" 
@@ -217,11 +212,6 @@ sectionPagesMenu = "main"
         weight = 1
         url = "/"
 
-      [[languages.en.menu.main]]
-        name = "Posts"
-        weight = 2
-        url = "posts/"
-      
       [[languages.en.menu.main]]
         name = "Contact"
         weight = 3
