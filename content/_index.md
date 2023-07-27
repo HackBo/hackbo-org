@@ -38,8 +38,8 @@ Somos diversos. Nuestras temáticas y quehaceres abarcan el desarrollo móvil, w
 
 ## Ubicación
 
-Estamos ubicados en la **calle  44#8-50, apto 201** en Bogotá, Colombia. 
-Virtualmente estamos en muchos lugares.
+Estamos ubicados en la **[calle  44 # 8-50, apto 201](https://goo.gl/maps/BecfbtCQiHSm2rpQA)** en Bogotá, Colombia.
+Virtualmente estamos en [muchos lugares](/contact).
 
 ## Membresías y gobernanza
 

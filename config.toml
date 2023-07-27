@@ -163,9 +163,6 @@ sectionPagesMenu = "main"
   [params.social.centralized]
     twitter       = [ "@HackBo", "@hackbo" ]
     gitlab        = [ "hackbo","HackBo" ]
-    reddit        = [ "hackbo","HackBo" ]
-    facebook      = [ "hackbo", "HackBo" ]
-    flickr        = [ "hackbo","HackBo" ]
     github        = [ "hackbo","HackBo" ]
     #entry         = [ "username", "label (optional)" ]
     

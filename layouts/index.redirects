@@ -1,2 +1,2 @@
-# 404 redirect for PT pages
+# 404 redirect for EN pages
 /en/* /en/404.html 404
