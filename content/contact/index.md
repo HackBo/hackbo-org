@@ -1,10 +1,8 @@
 ---
 
-title           : "Contactp"
+title           : "Contacto"
 
 description     : "Alternativas para contactarnos"
-
-cover           : "hackbo_lantern.png"
 
 coverAlt        : "HackBo dia de las velitas"
 
@@ -16,6 +14,6 @@ sitemapExclude  : true
 
 ---
 
-Or envíanos un email:
+O puedes enviarnos un email:
 
 {{< contact-form >}}
