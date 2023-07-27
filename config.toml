@@ -216,3 +216,15 @@ sectionPagesMenu = "main"
         name = "Contact"
         weight = 2
         url = "contact/" 
+
+      [languages.en.params.contact]
+
+        formspreeFormId = "xjvdzygl"
+        subject = [ 'Just saying "hi"', "I'm want make a event", "How to can I donate?" ]
+
+        [languages.en.params.contact.placeholder]
+          name    = ""
+          email   = ""             
+          subject = 'Just saying "hi"'
+          message = ""
+
