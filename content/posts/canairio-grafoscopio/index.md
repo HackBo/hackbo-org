@@ -16,6 +16,9 @@ Este jueves 27 de julio, desde las 4:30 PM (GMT-5), [CanAir.IO](https://canair.i
 
 Entrada Libre | HackBo | Calle 44 # 8-50 Apto 201 | Jueves 27 de julio, 4:30 PM (GMT-5)
 
+→ [Narrativa de datos explorando la API](https://mutabit.com/repos.fossil/mutabit/doc/tip/wiki/es/canairio--bsz8m.md.html) 
+de [CanAir.IO](https://canair.io), parte del encuentro.   
+
 {{< figure "canairio-grafoscopio.jpg" "CanAirIO Grafoscopio" "border" >}}
 
 
