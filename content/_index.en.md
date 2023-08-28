@@ -10,7 +10,9 @@ HackBo, un hackerspace en Bogotá, un espacio
 auto-gestionado en comunidad donde nos reunimos a hacer cosas con tecnologías digitales por activismo, 
 lucro y/o placer.
 
+
 ![Página web de HackBo](../hackbo_lantern.png)
+
 
 ## Somos
 
@@ -36,8 +38,8 @@ Somos diversos. Nuestras temáticas y quehaceres abarcan el desarrollo móvil, w
 
 ## Ubicación
 
-Estamos ubicados en la **calle  44#8-50, apto 201** en Bogotá, Colombia. 
-Virtualmente estamos en muchos lugares.
+Estamos ubicados en la **[calle  44 # 8-50, apto 201](https://goo.gl/maps/BecfbtCQiHSm2rpQA)** en Bogotá, Colombia.
+Virtualmente estamos en [muchos lugares](/contact).
 
 ## Membresías y gobernanza
 
@@ -89,10 +91,10 @@ A su vez esperamos una serie de compromisos:
     no poder hacerlo.
   * Ayudar, en la medida de las necesidades y posibilidades, a la gestión de la infraestructura 
     física y virtual del espacio.
-      * Participar del arreglo físico del espacio, su aseo y organización: mantegamos el espacio como
-        nos gustaría encontrarlo.
-        Recuerdemos vaciar las papeleras, bajar las sisternas, lavar la loza, y que la basura pasa 
-        los martes, jueves y sábados, por si podemos ayudar a sacarla.
+  * Participar del arreglo físico del espacio, su aseo y organización: mantegamos el espacio como
+    nos gustaría encontrarlo.
+    Recuerdemos vaciar las papeleras, bajar las sisternas, lavar la loza, y que la basura pasa 
+    los martes, jueves y sábados, por si podemos ayudar a sacarla.
   * Permanencer en la mayoría de los canales comunitarios para vinculación, comunicación y toma 
     de desiciones (Telegram, Lista de Correos, etc.) y en caso de que no se pueda estar allí,
     mantenerse al tanto, de manera frecuente, de las conversaciones y sobre todo los acuerdos que 
