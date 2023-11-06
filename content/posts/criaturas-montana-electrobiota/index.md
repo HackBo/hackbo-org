@@ -15,6 +15,9 @@ tags            : [ taller, biosensores, familiar, suratómica, festival, EnElFi
 - DURACIÓN DEL TALLER
     - 1 encuentro de 2 horas.
 
+- FECHA
+    - Domingo 12 de Noviembre de 11AM a 1PM en HackBo.
+
 - MODALIDAD
     - Presencial, requiere inscripción previa.
 

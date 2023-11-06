@@ -15,6 +15,11 @@ tags            : [ laboratorio, taller, biosensores, rizosfera, electrobiota, s
 - DURACIÓN DEL TALLER
     - 1 encuentro de 4 horas.
 
+- FECHA
+    - Sábado 11 de Noviembre.
+    - Parte 1: 11AM a 1PM en el Parque Entre Nubes | Bosque Okupa.
+    - Parte 2: 3pm a 5pm en HackBo.
+
 - MODALIDAD
     - Presencial, requiere inscripción previa.
 
