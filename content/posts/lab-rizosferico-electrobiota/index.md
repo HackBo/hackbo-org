@@ -6,7 +6,7 @@ description     : "Taller colaborativo que abraza la indisciplina entre el arte,
 
 date            : 2023-11-06
 
-tags            : [ laboratorio, taller, biosensores, rizosfera, electrobiota, suratómica, festival, enelfilodelcaos ]
+tags            : [ laboratorio, taller, biosensores, rizosfera, electrobiota, suratómica, festival, EnElFiloDelCaos ]
 
 ---
 
@@ -17,6 +17,12 @@ tags            : [ laboratorio, taller, biosensores, rizosfera, electrobiota, s
 
 - MODALIDAD
     - Presencial, requiere inscripción previa.
+
+- INSCRIPCIÓN
+    - [https://docs.google.com/forms/d/e/1FAIpQLScvAKUebFOFl26_IStjhaTJz7Q0iCZQIMkHzDv7ipZ81IYdrQ/viewform](https://docs.google.com/forms/d/e/1FAIpQLScvAKUebFOFl26_IStjhaTJz7Q0iCZQIMkHzDv7ipZ81IYdrQ/viewform)
+
+- Festival En El Filo del Caos
+    - [https://www.suratomica.com/festivalenelfilodelcaos](https://www.suratomica.com/festivalenelfilodelcaos) 
 
 {{< figure "lab-rizosferico-electrobiota-1.webp" "Laboratorio Rizosférico: Entre los Cielos y los Suelos por Electrobiota | Festival en el filo del caos | Suratómica" "border" >}}
 

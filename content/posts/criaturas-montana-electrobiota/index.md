@@ -6,7 +6,7 @@ description     : "Taller familiar para conocer los procesos y el cuidado de las
 
 date            : 2023-11-06
 
-tags            : [ taller, biosensores, familiar, suratómica, festival ]
+tags            : [ taller, biosensores, familiar, suratómica, festival, EnElFiloDelCaos, electrobiota ]
 
 ---
 
@@ -17,6 +17,12 @@ tags            : [ taller, biosensores, familiar, suratómica, festival ]
 
 - MODALIDAD
     - Presencial, requiere inscripción previa.
+
+- INSCRIPCIÓN
+    - PENDIENTE
+
+- Festival En El Filo del Caos
+    - [https://www.suratomica.com/festivalenelfilodelcaos](https://www.suratomica.com/festivalenelfilodelcaos) 
 
 {{< figure "criaturas-montana-electrobiota-1.webp" "Nuestra tierra: Criaturas de la Montaña por Electrobiota | Festival en el filo del caos | Suratómica" "border" >}}
 
