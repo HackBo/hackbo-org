@@ -70,7 +70,7 @@ y construirán una bioestación experimental para aproximarnos a los fenómenos 
 
 - [https://colectivoelectrobiota.wordpress.com/](https://colectivoelectrobiota.wordpress.com/)
 
-{{< figure "electrobiota-1.webp" "Nuestra tierra: Criaturas de la Montaña por Electrobiota | Festival en el filo del caos | Suratómica" "border" >}}
+{{< figure "electrobiota-1.webp" "Laboratorio Rizosférico: Entre los Cielos y los Suelos por Electrobiota | Festival en el filo del caos | Suratómica" "border" >}}
 
 Colectivx artístico multiespecie 
 fundado en el 2014 por las artistas transmediales mexicanas 
@@ -95,8 +95,8 @@ Biotecnología, Arte y Transfeminismo (Es), Festival Tsonami de radio arte (Ch),
 Su trabajo ha recibido diversos reconocimientos internacionales y nacionales. 
 En el 2022 recibió el CIFO-Ars Electronica Award (Au-EUA).
 
-{{< figure "banner-lab-rizosferico-electrobiota.webp" "Nuestra tierra: Criaturas de la Montaña por Electrobiota | Festival en el filo del caos | Suratómica" "border" >}}
+{{< figure "banner-lab-rizosferico-electrobiota.webp" "Laboratorio Rizosférico: Entre los Cielos y los Suelos por Electrobiota | Festival en el filo del caos | Suratómica" "border" >}}
 
 ---
 
-Enlace original del festival: [https://www.suratomica.com/post/laboratorio-rizosf%C3%A9rico-entre-los-cielos-y-los-suelos-por-electrobiota](https://www.suratomica.com/post/nuestra-tierra-criaturas-de-la-monta%C3%B1a-por-electrobiota) 
+Enlace original del festival: [https://www.suratomica.com/post/laboratorio-rizosf%C3%A9rico-entre-los-cielos-y-los-suelos-por-electrobiota](https://www.suratomica.com/post/laboratorio-rizosf%C3%A9rico-entre-los-cielos-y-los-suelos-por-electrobiota) 
