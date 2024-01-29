@@ -164,7 +164,7 @@ sectionPagesMenu = "main"
     twitter       = [ "@HackBo", "@hackbo" ]
     gitlab        = [ "hackbo", "HackBo" ]
     github        = [ "hackbo", "HackBo" ]
-    instagram     = [ "hackbo", "@hackbo.co"]
+    instagram     = [ "hackbo.co", "@hackbo.co"]
     #entry         = [ "username", "label (optional)" ]
     
     # The "entry" here IS important. It's used to load the data.
