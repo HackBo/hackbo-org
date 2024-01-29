@@ -162,8 +162,9 @@ sectionPagesMenu = "main"
    
   [params.social.centralized]
     twitter       = [ "@HackBo", "@hackbo" ]
-    gitlab        = [ "hackbo","HackBo" ]
-    github        = [ "hackbo","HackBo" ]
+    gitlab        = [ "hackbo", "HackBo" ]
+    github        = [ "hackbo", "HackBo" ]
+    instagram     = [ "hackbo", "@hackbo.co"]
     #entry         = [ "username", "label (optional)" ]
     
     # The "entry" here IS important. It's used to load the data.
