@@ -175,7 +175,8 @@ sectionPagesMenu = "main"
       #1 = [ "https://app.element.io/#/user/<username>:matrix.org", "matrix.org" ]
       #entry = [ "full url", "label (required)" ]
       
-    #[params.social.decentralized.mastodon]
+  [params.social.decentralized.mastodon]
+    1 = [ "https://col.social/@hackbo", "mastodon | col.social"]
       #1 = [ "https://mastodon.social/<username>", "mastodon.social" ]
       #2 = [ "https://mastodon.too/<username>", "mastodon.too" ]
 
