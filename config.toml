@@ -176,7 +176,7 @@ sectionPagesMenu = "main"
       #entry = [ "full url", "label (required)" ]
       
   [params.social.decentralized.mastodon]
-    1 = [ "https://col.social/@hackbo", "mastodon | col.social"]
+    1 = [ "https://col.social/@hackbo", "@Hackbo@col.social"]
       #1 = [ "https://mastodon.social/<username>", "mastodon.social" ]
       #2 = [ "https://mastodon.too/<username>", "mastodon.too" ]
 
