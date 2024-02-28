@@ -6,7 +6,7 @@ description     : "Talleres en hackbo en el marco de bogotrax 2024."
 
 date            : 2024-02-27
 
-tags            : [ bogotrax, talleres, intranet, memoria, livecoding, editorial, música, cacharreo ]
+tags            : [ bogotrax, talleres, taller, intranet, memoria, livecoding, editorial, música, cacharreo, sound, visual, hackathon, dataweek ]
 
 ---
 
