@@ -25,6 +25,8 @@ Mayor info y preinsripciones en: https://is.gd/dataroda79
 
 Entrada Libre con [Preinscripción](https://is.gd/dataroda79) | HackBo | Calle 44 # 8-50 Apto 201 | Lunes 4 de Marzo 2024, 6:30 PM a 8:30 PM (GMT-5)
 
+https://opendataday.org/es_es/
+
 {{< figure "grafoscopio-dataroda-79-odd-banner-v3.png" "ODD 2024: Laboratorio de herramientas amoldables con datos abiertos para el desarrollo sostenible en comunidades de base." "border" >}}
 
 
