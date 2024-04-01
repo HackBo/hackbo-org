@@ -90,7 +90,7 @@ Biotecnología, Arte y Transfeminismo (Es), Festival Tsonami de radio arte (Ch),
 Su trabajo ha recibido diversos reconocimientos internacionales y nacionales. 
 En el 2022 recibió el CIFO-Ars Electronica Award (Au-EUA).
 
-{{< figure "banner-criaturas-montana-electrobiota.webp" "Nuestra tierra: Criaturas de la Montaña por Electrobiota | Festival en el filo del caos | Suratómica" "border" >}}
+{{< figure "banner-criaturas-montana-electrobiota.webp" "Domingo 12 de Noviembre, 2023 | Nuestra tierra: Criaturas de la Montaña por Electrobiota | Festival en el filo del caos | Suratómica" "border" >}}
 
 ---
 

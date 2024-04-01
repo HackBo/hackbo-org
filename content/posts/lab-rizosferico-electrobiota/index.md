@@ -100,7 +100,7 @@ Biotecnología, Arte y Transfeminismo (Es), Festival Tsonami de radio arte (Ch),
 Su trabajo ha recibido diversos reconocimientos internacionales y nacionales. 
 En el 2022 recibió el CIFO-Ars Electronica Award (Au-EUA).
 
-{{< figure "banner-lab-rizosferico-electrobiota.webp" "Laboratorio Rizosférico: Entre los Cielos y los Suelos por Electrobiota | Festival en el filo del caos | Suratómica" "border" >}}
+{{< figure "banner-lab-rizosferico-electrobiota.webp" "Sabado 11 de Noviembre, 2023 | Laboratorio Rizosférico: Entre los Cielos y los Suelos por Electrobiota | Festival en el filo del caos | Suratómica" "border" >}}
 
 ---
 
