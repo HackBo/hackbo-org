@@ -13,7 +13,7 @@ tags            : [ hackerismos, mesa redonda, círculo de saberes, conversatori
 ## Encuentros HackBo
 
 En medio del "Día del Hackerspace Abierto", 
-invitamos a artistas, hacktivistas, hackers, 
+invitamos a artistas, hacktivistas, hackers y personas en general 
 a que nos reunamos en el Encuentro Hackbo, 
 un espacio abierto y libre, para compartir sus proyectos, ideas 
 o experiencias relacionadas con los hackerismos, 
