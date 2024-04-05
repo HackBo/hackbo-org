@@ -32,7 +32,7 @@ Se pueden usar recursos audiovisuales.
 Si estás interesadx en participar 
 inscribirte a este evento 
 a través del siguiente enlace: 
-https://is.gd/hackboencuentrosA
+https://is.gd/hackboencuentrosB
 
 Entrada libre con previa inscripción | HackBo | Calle 44 # 8-50 Apto 201 | Sabado 06 de abril 2024, 03:00 PM a 05:00 PM (GMT-5)
 
