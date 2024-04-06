@@ -24,7 +24,7 @@ apoyanos a organizar y limpiar el espacio antes y después de la película.
 Si estás interesadx en participar 
 inscribirte a este evento 
 a través del siguiente enlace:
-https://is.gd/hackbocinemaA
+_inscripciones cerradas_.
 
 Entrada libre con previa inscripción | HackBo | Calle 44 # 8-50 Apto 201 | Sabado 06 de abril 2024, desde las 18:00 PM (GMT-5)
 
