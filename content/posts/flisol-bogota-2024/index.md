@@ -36,6 +36,16 @@ Donde compartiremos las actividades, proyectos, redes, grupos y personas que con
 
 CONFERENCISTA: Leonardo Ramírez.
 
+* [IA en Educación, un enfoque crítico y prácticas locales](https://flisolbogota.org/2024/2024/04/24/782/)  
+
+Abordaremos un conjunto de perspectivas críticas frente a la llamada IA,
+cuales son sus impactos en la educación, qué alternativas y prácticas locales, 
+inspiradas en el hacktivismo permiten una apropiación crítica de la misma.
+
+**2:00pm en Auditorio IA**
+
+CONFERENCISTA: Offray Luna Cárdenas.
+
 * [Herramientas y redes libres para hacer ruYdo](https://flisolbogota.org/2024/2024/04/23/744/)  
 
 La producción audiovisual y multimedia requiere un ecosistema de tecnologías
@@ -59,17 +69,7 @@ y nuestra relación con las redes multidisciplinares y agentes cono HackBo, graf
 
 CONFERENCISTAS: Adriana Poveda y Diego Herrera García.
 
-* [IA en Educación, un enfoque crítico y prácticas locales](https://flisolbogota.org/2024/2024/04/24/782/)  
-
-Abordaremos un conjunto de perspectivas críticas frente a la llamada IA,
-cuales son sus impactos en la educación, qué alternativas y prácticas locales, 
-inspiradas en el hacktivismo permiten una apropiación crítica de la misma.
-
-**2:00pm en Auditorio IA**
-
-CONFERENCISTA: Offray Luna Cárdenas.
-
-Entrada libre con previa inscripción | Sede ECCI, Edificio Crisanto Luque | Cl. 20 # 9-45 | Sabado 04 de mayo 2024, 08:00 AM a 05:30 PM (GMT-5)
+Entrada libre con [previa inscripción](https://flisolbogota.org/2024/) | Sede ECCI, Edificio Crisanto Luque | Cl. 20 # 9-45 | Sabado 04 de mayo 2024, 08:00 AM a 05:30 PM (GMT-5)
 
 {{< figure "hackbo-flisol-bogota-2024.png" "HackBo en el Flisol Bogotá 2024 | 04 de mayo 2024" "border" >}}
 
