@@ -1,6 +1,6 @@
 ---
 
-title           : "La Furia [del libro y la cultura] Anarquista"
+title           : "La Furia Anarquista | Bogotá, 2024"
 
 description     : "Festival y feria del libro y la cultura anarquista en Bogotá."
 
