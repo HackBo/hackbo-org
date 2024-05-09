@@ -55,7 +55,7 @@ Ilustración del poster por [@pabloquirogadevia](https://www.instagram.com/pablo
 
 ## Cinema Furia
 
-{{< figure "cinema-furia-banner-cuadrado.jpg" "Cinema Furia | La Furia [del libro y la cultura] Anarqista | 6:30pm - 8:00pm, 11 de Mayo 2024" "border" >}}
+{{< figure "../cinema-furia-2024/img/cinema-furia-banner-cuadrado.jpg" "Cinema Furia | La Furia [del libro y la cultura] Anarqista | 6:30pm - 8:00pm, 11 de Mayo 2024" "border" >}}
 
 Este 11 de Mayo Cinema Hackbo presenta en La Furia, 
 una selección de cortos de diversas técnicas y géneros donde se presentan 
