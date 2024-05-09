@@ -52,3 +52,13 @@ Setas Libertarias, @taller.trinchera, @uletsindical, @grupolibertariovialibre,
 Ilustración del poster por [@pabloquirogadevia](https://www.instagram.com/pabloquirogadevia/)
 
 {{< figure "la-furia-banner-vertical.jpg" "La Furia [del libro y la cultura] Anarqista | 11 a 19 de Mayo 2024" "border" >}}
+
+## Cinema Furia
+
+{{< figure "cinema-furia-banner-cuadrado.jpg" "Cinema Furia | La Furia [del libro y la cultura] Anarqista | 6:30pm - 8:00pm, 11 de Mayo 2024" "border" >}}
+
+Este 11 de Mayo Cinema Hackbo presenta en La Furia, 
+una selección de cortos de diversas técnicas y géneros donde se presentan 
+historias rebeldes, ácratas y antiatoritarias.
+
+Más info en [Cinema Furia](./cinema-furia-2024)

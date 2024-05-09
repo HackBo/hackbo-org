@@ -6,7 +6,7 @@ description     : "Cinema de coortos Festival y feria del libro y la cultura ana
 
 date            : 2024-05-07
 
-tags            : [ anarquismo, talleres, libro, feria, festival, anarquia, LaFuria ]
+tags            : [ anarquismo, talleres, libro, feria, festival, anarquia, LaFuria, cine ]
 
 ---
 
@@ -23,3 +23,5 @@ Entrada libre con inscripción previa en:
 * https://is.gd/cinemafuria2024
 
 {{< figure "cinema-furia-banner-cuadrado.jpg" "Cinema Furia | La Furia [del libro y la cultura] Anarqista | 6:30pm - 8:00pm, 11 de Mayo 2024" "border" >}}
+
+Cliquea aquí para info de [La Furia Anarquista 2024](./la-furia-2024)
