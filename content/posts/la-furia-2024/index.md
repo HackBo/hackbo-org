@@ -47,13 +47,29 @@ Autonoma.red, Comité de Solidaridad Kurdistán, @dostristestigres_,
 Setas Libertarias, @taller.trinchera, @uletsindical, @grupolibertariovialibre, 
 @vinilos.bebidas77, @dolor.87, @feyerabend_ediciones
 
-—————————
-
 Ilustración del poster por [@pabloquirogadevia](https://www.instagram.com/pabloquirogadevia/)
 
 {{< figure "la-furia-banner-vertical.jpg" "La Furia [del libro y la cultura] Anarqista | 11 a 19 de Mayo 2024" "border" >}}
 
-## Cinema Furia
+### Inauguración
+
+
+{{< figure "inauguracion-furia-2024-banner-cuadrado.jpg" "Inauguración | La Furia [del libro y la cultura] Anarqista | 17 de Mayo 2024, la redada! Cll. 17 # 2 - 51. De 5 a 9 p.m." "border" >}}
+
+El viernes 17 será la inauguración en la redada! Cll. 17 # 2 - 51. De 5 a 9 p.m. 
+
+Con la participación de Ianerre @olasobreola, con una lectura performática, 
+el grupo ruYdo @ruidajo_ @ardi_complot y la colectiva FemHack, harán una improvisación musical 
+y Aida Pamela @aida.esta.ida nos acompañará con su voz. 
+
+### Feria del libro
+
+{{< figure "feria-libro-furia-2024-banner-cuadrado.jpg" "Feria del Libro | La Furia [del libro y la cultura] Anarqista | 18 y 19 de Mayo 2024, teatro Acto Latino, Cra 16 # 58a - 55." "border" >}}
+
+El 18 y 19 de mayo, en el teatro Acto Latino, Cra 16 # 58a - 55. 
+Encontrarán publicaciones de diferentes editoriales y proyectos ácratas y más eventos culturales.
+
+### Cinema Furia
 
 {{< figure "../cinema-furia-2024/img/cinema-furia-banner-cuadrado.jpg" "Cinema Furia | La Furia [del libro y la cultura] Anarqista | 6:30pm - 8:00pm, 11 de Mayo 2024" "border" >}}
 
