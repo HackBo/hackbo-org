@@ -68,9 +68,22 @@ y Aida Pamela @aida.esta.ida nos acompañará con su voz.
 El 18 y 19 de mayo, en el teatro Acto Latino, Cra 16 # 58a - 55. 
 Encontrarán publicaciones de diferentes editoriales y proyectos ácratas y más eventos culturales.
 
+### Musiquita Anarca 
+
+{{< figure "musiquita-anarca-furia-2024-banner-cuadrado.jpg" "Musiquita Anarca por [ruYdo](https://ruydo.xyz) | La Furia [del libro y la cultura] Anarqista | 11 de Mayo 2024, Prosa del Mundo - Cl 43 # 19 - 08. 4PM a 5PM" "border" >}}
+
+**un análisis  imprevisto e impreciso de melodías sin autoridad.**
+
+Sábado 11 a las 4 p.m. 
+Ardi Complot @ardi_complot, junto a @ruidajo_ parte de HackBo y [ruYdo](https://ruydo.xyz)
+nos presentará una selección de música anarquista
+que analizarán desde una perspectiva musical.
+
+Lugar: Prosa del Mundo - Cl 43 # 19 - 08.
+
 ### La Complejidad es Anarquía 
 
-{{< figure "complejidad-furia-2024-banner-cuadrado.jpg" "La complejidad es Anarquía | La Furia [del libro y la cultura] Anarqista | 11 de Mayo 2024, Librería la Valija de Fuego, Cra. 7 # 45 - 52." "border" >}}
+{{< figure "complejidad-furia-2024-banner-cuadrado.jpg" "La complejidad es Anarquía | La Furia [del libro y la cultura] Anarqista | 11 de Mayo 2024, Librería la Valija de Fuego, Cra. 7 # 45 - 52. 11A.M." "border" >}}
 
 La complejidad consiste no solamente en el estudio, 
 sino en la creación de sistemas de grados de libertad crecientes, 
