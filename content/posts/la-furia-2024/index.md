@@ -53,7 +53,6 @@ Ilustración del poster por [@pabloquirogadevia](https://www.instagram.com/pablo
 
 ### Inauguración
 
-
 {{< figure "inauguracion-furia-2024-banner-cuadrado.jpg" "Inauguración | La Furia [del libro y la cultura] Anarqista | 17 de Mayo 2024, la redada! Cll. 17 # 2 - 51. De 5 a 9 p.m." "border" >}}
 
 El viernes 17 será la inauguración en la redada! Cll. 17 # 2 - 51. De 5 a 9 p.m. 
@@ -68,6 +67,31 @@ y Aida Pamela @aida.esta.ida nos acompañará con su voz.
 
 El 18 y 19 de mayo, en el teatro Acto Latino, Cra 16 # 58a - 55. 
 Encontrarán publicaciones de diferentes editoriales y proyectos ácratas y más eventos culturales.
+
+### La Complejidad es Anarquía 
+
+{{< figure "complejidad-furia-2024-banner-cuadrado.jpg" "La complejidad es Anarquía | La Furia [del libro y la cultura] Anarqista | 11 de Mayo 2024, Librería la Valija de Fuego, Cra. 7 # 45 - 52." "border" >}}
+
+La complejidad consiste no solamente en el estudio, 
+sino en la creación de sistemas de grados de libertad crecientes, 
+sin centros ni jerarquías, destacando emergencias,  autoorganización, y mucho aprendizaje.  
+
+En esta charla desarrollamos estas ideas. La complejidad,  es claro: las ciencias de la complejidad.
+
+Nos conectaremos con el investigador en Ciencias de la Complejidad, 
+Carlos Eduardo Maldonado desde la valija de Fuego, para hablar y compartir sobre anarquía y ciencias de la vida.
+
+Asistencia presencial:
+Librería la Valija de Fuego
+Cra. 7 # 45 - 52
+Sábado 11 de Mayo - 11:00 a.m.
+Entrada libre hasta completar aforo.
+
+Conexión virtual:
+Vía Jitsi
+https://is.gd/t1tyLw
+
+Organiza: [@Mikropía](https://www.instagram.com/mikropia_acrata/)
 
 ### Cinema Furia
 
