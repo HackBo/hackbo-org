@@ -115,3 +115,15 @@ una selección de cortos de diversas técnicas y géneros donde se presentan
 historias rebeldes, ácratas y antiatoritarias.
 
 Más info en [Cinema Furia](./cinema-furia-2024)
+
+### Estampado en vivo
+
+Éste 11 de mayo
+🔥¡Estampado en vivo!🔥
+Desde las 2 pm hasta las 6pm
+Traigan su camiseta✊🏾
+
+Rojinegro distribuidora libertaria 
+Cra 19#43-25
+
+{{< figure "estampado-rojinegro-furia-2024-banner-vertical.jpg" "Estampado en vivo por Rojinegro | La Furia [del libro y la cultura] Anarqista | 2pm - 6pm, 11 de Mayo 2024" "border" >}}
