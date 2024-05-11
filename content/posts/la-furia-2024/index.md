@@ -49,6 +49,8 @@ Setas Libertarias, @taller.trinchera, @uletsindical, @grupolibertariovialibre,
 
 Ilustración del poster por [@pabloquirogadevia](https://www.instagram.com/pabloquirogadevia/)
 
+Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/la-furia-del-libro-y-la-cultura-anarquista
+
 {{< figure "la-furia-banner-vertical.jpg" "La Furia [del libro y la cultura] Anarqista | 11 a 19 de Mayo 2024" "border" >}}
 
 ### Inauguración
@@ -61,12 +63,16 @@ Con la participación de Ianerre @olasobreola, con una lectura performática,
 el grupo ruYdo @ruidajo_ @ardi_complot y la colectiva FemHack, harán una improvisación musical 
 y Aida Pamela @aida.esta.ida nos acompañará con su voz. 
 
+Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/inauguracion-feria-del-libro-la-furia
+
 ### Feria del libro
 
 {{< figure "feria-libro-furia-2024-banner-cuadrado.jpg" "Feria del Libro | La Furia [del libro y la cultura] Anarqista | 18 y 19 de Mayo 2024, teatro Acto Latino, Cra 16 # 58a - 55." "border" >}}
 
 El 18 y 19 de mayo, en el teatro Acto Latino, Cra 16 # 58a - 55. 
 Encontrarán publicaciones de diferentes editoriales y proyectos ácratas y más eventos culturales.
+
+Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/feria-del-libro-la-furia
 
 ### Musiquita Anarca 
 
@@ -80,6 +86,8 @@ nos presentará una selección de música anarquista
 que analizarán desde una perspectiva musical.
 
 Lugar: Prosa del Mundo - Cl 43 # 19 - 08.
+
+Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/musiquita-anarca
 
 ### La Complejidad es Anarquía 
 
@@ -106,6 +114,8 @@ https://is.gd/t1tyLw
 
 Organiza: [@Mikropía](https://www.instagram.com/mikropia_acrata/)
 
+Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/la-complejidad-es-anarquia
+
 ### Cinema Furia
 
 {{< figure "../cinema-furia-2024/img/cinema-furia-banner-cuadrado.jpg" "Cinema Furia | La Furia [del libro y la cultura] Anarqista | 6:30pm - 8:00pm, 11 de Mayo 2024" "border" >}}
@@ -115,6 +125,8 @@ una selección de cortos de diversas técnicas y géneros donde se presentan
 historias rebeldes, ácratas y antiatoritarias.
 
 Más info e inscripción en [Cinema Furia](./cinema-furia-2024).
+
+Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/cinema-hackbo-1
 
 ### Estampado en vivo
 
@@ -128,6 +140,8 @@ Cra 19#43-25
 
 {{< figure "estampado-rojinegro-furia-2024-banner-vertical.jpg" "Estampado en vivo por Rojinegro | La Furia [del libro y la cultura] Anarqista | 2pm - 6pm, 11 de Mayo 2024" "border" >}}
 
+Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/estampado-en-vivo
+
 ### Documentación Colaborativa Libertaria
 
 Este 14 de Mayo Hackbo realizará un taller práctico, para todos los parches y personas interesadas en otras prácticas del lo digital.
@@ -135,6 +149,8 @@ Este 14 de Mayo Hackbo realizará un taller práctico, para todos los parches y 
 más info e inscripción en: [Documentación Colaborativa Libertaria](./documentacion-colaborativa-furia-2024).
 
 {{< figure "../documentacion-colaborativa-furia-2024/img/documentacion-colborativa-furia-2024-banner-cuadrado.jpg" "Documentación Colaborativa Libertaria | 6pm, 14 de mayo 2024 | HackBo, Calle 44 # 8 - 50 Of. 201." "border" >}}
+
+Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/documentacion-colaborativa-libertaria
 
 ### Recorrido guiado por el Bosque Okupa
 
@@ -151,6 +167,8 @@ Evento para todas las edades, con inscripción previa hasta agotar cupos.
 
 {{< figure "bosque-okupa-furia-2024-banner-cuadrado.jpg" "Bosque Okupa | La Furia [del libro y la cultura] Anarqista | Domingo 12 de mayo 2024." "border" >}}
 
+Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/recorrido-ecologico-guiado-en-el-bosque-okupa
+
 ### \*A mis amigx\*
 
 Tocar lo que no se debe, como no se debe. 
@@ -163,3 +181,5 @@ Cll. 43 # 19 - 08
 Martes 14 de mayo 5:00 p.m.
 
 {{< figure "femhack-furia-2024-banner-cuadrado.jpg" "\*A mis amigx\* | La Furia [del libro y la cultura] Anarqista | 5pm, martes 14 de mayo 2024." "border" >}}
+
+Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/a-mis-amigx
