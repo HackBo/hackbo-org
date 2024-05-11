@@ -72,7 +72,10 @@ Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma
 El 18 y 19 de mayo, en el teatro Acto Latino, Cra 16 # 58a - 55. 
 Encontrarán publicaciones de diferentes editoriales y proyectos ácratas y más eventos culturales.
 
-Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/feria-del-libro-la-furia
+Puedes agregar este vento en tu calendario visita autonoma.red: 
+
+* https://autonoma.red/event/feria-del-libro-la-furia
+* https://autonoma.red/event/feria-del-libro-la-furia-dia-2
 
 ### Musiquita Anarca 
 

@@ -28,3 +28,5 @@ Evento con Inscripción previa en:
 * https://is.gd/doccollib
 
 {{< figure "documentacion-colborativa-furia-2024-banner-cuadrado.jpg" "Documentación Colaborativa Libertaria | 6pm, 14 de mayo 2024 | HackBo, Calle 44 # 8 - 50 Of. 201." "border" >}}
+
+Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/documentacion-colaborativa-libertaria

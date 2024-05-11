@@ -25,3 +25,5 @@ Entrada libre con inscripción previa en:
 {{< figure "cinema-furia-banner-cuadrado.jpg" "Cinema Furia | La Furia [del libro y la cultura] Anarqista | 6:30pm - 8:00pm, 11 de Mayo 2024" "border" >}}
 
 Cliquea aquí para info de [La Furia Anarquista 2024](./la-furia-2024)
+
+Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/cinema-hackbo-1
