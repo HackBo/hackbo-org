@@ -4,9 +4,9 @@ title           : "Documentación Colaborativa Libertaria | La Furia Anarquista 
 
 description     : "Taller de documentación colaborativa en linea con software libre."
 
-date            : 2024-05-07
+date            : 2024-05-10
 
-tags            : [ anarquismo, talleres, libro, feria, festival, anarquia, LaFuria, documentación, colborativa ]
+tags            : [ anarquismo, talleres, libro, feria, festival, anarquia, LaFuria, documentación, colaborativa ]
 
 ---
 

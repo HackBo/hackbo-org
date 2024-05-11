@@ -127,3 +127,39 @@ Rojinegro distribuidora libertaria
 Cra 19#43-25
 
 {{< figure "estampado-rojinegro-furia-2024-banner-vertical.jpg" "Estampado en vivo por Rojinegro | La Furia [del libro y la cultura] Anarqista | 2pm - 6pm, 11 de Mayo 2024" "border" >}}
+
+### Documentación Colaborativa Libertaria
+
+Este 14 de Mayo Hackbo realizará un taller práctico, para todos los parches y personas interesadas en otras prácticas del lo digital.
+
+más info e inscripción en: https://hackbo.org/posts/documentacion-colaborativa-furia-2024/
+
+{{< figure "../documentacion-colaborativa-furia-2024/img/documentacion-colborativa-furia-2024-banner-cuadrado.jpg" "Documentación Colaborativa Libertaria | 6pm, 14 de mayo 2024 | HackBo, Calle 44 # 8 - 50 Of. 201." "border" >}}
+
+### Recorrido guiado por el Bosque Okupa
+
+En el interior del área urbana de Bogotá, un Bosque se extiende, vive, okupa y resiste.
+En el marco de la Furia, les invitamos a conocer y apoyar esta iniciativa autogestionada
+por más de ocho años, que ya tiene una extensión de casi una hectárea.
+
+Domingo 12 de Mayo
+Recorrido: 2 Horas
+Aporte Solidario: Desde 10k [No es obligatorio para participar]
+
+Evento para todas las edades, con inscripción previa hasta agotar cupos.
+<lafuriaanarquista@protonmail.com>
+
+{{< figure "bosque-okupa-furia-2024-banner-cuadrado.jpg" "Bosque Okupa | La Furia [del libro y la cultura] Anarqista | Domingo 12 de mayo 2024." "border" >}}
+
+### \*A mis amigx\*
+
+Tocar lo que no se debe, como no se debe. 
+Cuerpo y tecnología desde lo trans-hack-feminista. 
+
+Por: FemHack - Piza+laruda
+
+Lugar: Prosa del Mundo
+Cll. 43 # 19 - 08
+Martes 14 de mayo 5:00 p.m.
+
+{{< figure "femhack-furia-2024-banner-cuadrado.jpg" "\*A mis amigx\* | La Furia [del libro y la cultura] Anarqista | 5pm, martes 14 de mayo 2024." "border" >}}
