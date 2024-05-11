@@ -114,7 +114,7 @@ Este 11 de Mayo Cinema Hackbo presenta en La Furia,
 una selección de cortos de diversas técnicas y géneros donde se presentan 
 historias rebeldes, ácratas y antiatoritarias.
 
-Más info en [Cinema Furia](./cinema-furia-2024)
+Más info e inscripción en [Cinema Furia](./cinema-furia-2024).
 
 ### Estampado en vivo
 
@@ -132,7 +132,7 @@ Cra 19#43-25
 
 Este 14 de Mayo Hackbo realizará un taller práctico, para todos los parches y personas interesadas en otras prácticas del lo digital.
 
-más info e inscripción en: https://hackbo.org/posts/documentacion-colaborativa-furia-2024/
+más info e inscripción en: [Documentación Colaborativa Libertaria](./documentacion-colaborativa-furia-2024).
 
 {{< figure "../documentacion-colaborativa-furia-2024/img/documentacion-colborativa-furia-2024-banner-cuadrado.jpg" "Documentación Colaborativa Libertaria | 6pm, 14 de mayo 2024 | HackBo, Calle 44 # 8 - 50 Of. 201." "border" >}}
 
