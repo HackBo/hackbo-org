@@ -278,6 +278,6 @@ que hicieron parte de su creación, en torno a un dialogo horizontal con lxs asi
 La Valija de Fuego
 5:30 p.m.
 
-{{< figure "larentamadre-furia-2024-banner.webp" "Sin saltar sobre tu propia sombra - Pedagogias libertarias | La Furia [del libro y la cultura] Anarqista | mayo 2024." "border" >}}
+{{< figure "larentamadre-furia-2024-banner.webp" "La renta y el tinto de la madre | La Furia [del libro y la cultura] Anarqista | mayo 2024." "border" >}}
 
 Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/ **PENDIENTE**
