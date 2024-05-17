@@ -239,3 +239,28 @@ Cra 7. # 45 - 52
 Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/ **PENDIENTE**
 
 {{< figure "luchaporelagua-1-furia-2024-banner.webp" "Lucah por el agua - Exposición | La Furia [del libro y la cultura] Anarqista | mayo 2024." "border" >}}
+
+### Sin saltar sobre tu propia sombra - Pedagogias libertarias.
+
+{{< figure "sinsaltarsombra-2-furia-2024-banner.webp" "Sin saltar sobre tu propia sombra - Pedagogias libertarias | La Furia [del libro y la cultura] Anarqista | mayo 2024." "border" >}}
+
+Retomamos esta conversa anual para seguir pensando sobre 
+¿Qué supone pensar la acción educativa 
+y cultural desde la libertad, la autodeterminación 
+y el apoyo mutuo? 
+Sostenemos y exploramos en este espacio 
+la necesidad de disputar nuestro lenguaje al mercado 
+y los poderes; desescolarizar el saber y defender 
+el conocimiento común🔥🔥
+
+#### Sesión 1
+De los combates en las aulas y en los espacios desescolarizados. 
+Miércoles 15 de Mayo 
+5:30 pm en Prosa del mundo
+
+#### Sesión 2 
+De los combates en la vida laboral docente. 
+Domingo 19 de Mayo
+4:00 p.m. en Acto Latino
+
+{{< figure "sinsaltarsombra-1-furia-2024-banner.webp" "Sin saltar sobre tu propia sombra - Pedagogias libertarias | La Furia [del libro y la cultura] Anarqista | mayo 2024." "border" >}}
