@@ -200,7 +200,7 @@ Construyamos juntxs una alternativa para conectarnos, conspirar y actuar! 🔥�
 
 {{< figure "agenda-autonoma-furia-2024-banner-cuadrado.webp" "Agenda Autónoma | La Furia [del libro y la cultura] Anarqista | 4pm, miércoles 15 de mayo 2024." "border" >}}
 
-Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/ **PENDIENTE**
+Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/agenda-autonoma
 
 ### Honrar tus manos, abrazar los oficios.
 
@@ -219,7 +219,7 @@ Lugar: Cl 45 #22-55 Segundo piso de @lahoguera2255
 
 {{< figure "honrar-tus-manos-furia-2024-banner-cuadrado.webp" "Honrar tus manos, abrazar los oficios | La Furia [del libro y la cultura] Anarqista | mayo 2024." "border" >}}
 
-Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/ **PENDIENTE**
+Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/honrar-tus-manos-abrazar-los-oficios
 
 ### LUCHA POR EL AGUA 🔥
 
@@ -236,7 +236,7 @@ que nos presenta una propuesta estética contra la devastación del primer mundo
 La Valija de Fuego
 Cra 7. # 45 - 52
 
-Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/ **PENDIENTE**
+Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/exposicion-artistica-lucha-por-el-agua
 
 {{< figure "luchaporelagua-1-furia-2024-banner.webp" "Lucah por el agua - Exposición | La Furia [del libro y la cultura] Anarqista | mayo 2024." "border" >}}
 
@@ -267,7 +267,7 @@ Domingo 19 de Mayo
 
 {{< figure "sinsaltarsombra-2-furia-2024-banner.webp" "Sin saltar sobre tu propia sombra - Pedagogias libertarias | La Furia [del libro y la cultura] Anarqista | mayo 2024." "border" >}}
 
-Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/ **PENDIENTE**
+Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/pedagogias-libertarias-sesion-1 
 
 ### La renta y el tinto de la madre
 
@@ -280,4 +280,4 @@ La Valija de Fuego
 
 {{< figure "larentamadre-furia-2024-banner.webp" "La renta y el tinto de la madre | La Furia [del libro y la cultura] Anarqista | mayo 2024." "border" >}}
 
-Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/ **PENDIENTE**
+Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/la-renta-y-el-tinto-de-la-madre
