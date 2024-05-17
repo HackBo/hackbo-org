@@ -242,8 +242,6 @@ Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma
 
 ### Sin saltar sobre tu propia sombra - Pedagogias libertarias.
 
-{{< figure "sinsaltarsombra-2-furia-2024-banner.webp" "Sin saltar sobre tu propia sombra - Pedagogias libertarias | La Furia [del libro y la cultura] Anarqista | mayo 2024." "border" >}}
-
 Retomamos esta conversa anual para seguir pensando sobre 
 ¿Qué supone pensar la acción educativa 
 y cultural desde la libertad, la autodeterminación 
@@ -254,13 +252,32 @@ y los poderes; desescolarizar el saber y defender
 el conocimiento común🔥🔥
 
 #### Sesión 1
+
 De los combates en las aulas y en los espacios desescolarizados. 
 Miércoles 15 de Mayo 
 5:30 pm en Prosa del mundo
 
+{{< figure "sinsaltarsombra-1-furia-2024-banner.webp" "Sin saltar sobre tu propia sombra - Pedagogias libertarias | La Furia [del libro y la cultura] Anarqista | mayo 2024." "border" >}}
+
 #### Sesión 2 
+
 De los combates en la vida laboral docente. 
 Domingo 19 de Mayo
 4:00 p.m. en Acto Latino
 
-{{< figure "sinsaltarsombra-1-furia-2024-banner.webp" "Sin saltar sobre tu propia sombra - Pedagogias libertarias | La Furia [del libro y la cultura] Anarqista | mayo 2024." "border" >}}
+{{< figure "sinsaltarsombra-2-furia-2024-banner.webp" "Sin saltar sobre tu propia sombra - Pedagogias libertarias | La Furia [del libro y la cultura] Anarqista | mayo 2024." "border" >}}
+
+Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/ **PENDIENTE**
+
+### La renta y el tinto de la madre
+
+Este 15 de Mayo 2024 estaremos compartiendo la experiencia de creación 
+de este poemario solidario junto a las individualidades 
+que hicieron parte de su creación, en torno a un dialogo horizontal con lxs asistentes.
+
+La Valija de Fuego
+5:30 p.m.
+
+{{< figure "larentamadre-furia-2024-banner.webp" "Sin saltar sobre tu propia sombra - Pedagogias libertarias | La Furia [del libro y la cultura] Anarqista | mayo 2024." "border" >}}
+
+Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/ **PENDIENTE**
