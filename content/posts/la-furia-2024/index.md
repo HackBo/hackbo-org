@@ -281,3 +281,23 @@ La Valija de Fuego
 {{< figure "larentamadre-furia-2024-banner.webp" "La renta y el tinto de la madre | La Furia [del libro y la cultura] Anarqista | mayo 2024." "border" >}}
 
 Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/la-renta-y-el-tinto-de-la-madre
+
+### HACER PAPEL CON HONGOS
+
+Taller
+
+Este jueves 16 de Mayo, desde @habitar.el.micelio 
+participaremos en La Furia Anarquista 🔥 
+explorando otras formas de interactuar con los hongos 
+y crear desde la biomaterialidad. 
+En esta ocasión haremos colectivamente papel con hongos. 
+Les invitamos a participar de este taller en la 
+@laredada - Cl. 17 #2-51, Bogotá.
+
+Evento con inscripción previa.
+Cupos limitados (10 cupos)
+Aporte solidario: 10k (para cubrir el costo de materiales).
+
+{{< figure "papel-hongo-furia-2024-banner.webp" "Hacer papel con hongos | La Furia [del libro y la cultura] Anarqista | mayo 2024." "border" >}}
+
+Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/hacer-papel-con-hongos-taller
