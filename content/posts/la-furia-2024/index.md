@@ -186,3 +186,56 @@ Martes 14 de mayo 5:00 p.m.
 {{< figure "femhack-furia-2024-banner-cuadrado.jpg" "\*A mis amigx\* | La Furia [del libro y la cultura] Anarqista | 5pm, martes 14 de mayo 2024." "border" >}}
 
 Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/a-mis-amigx
+
+### Agenda Autónoma 
+
+Este Miércoles 15 de Mayo a las 4 p.m. en prosa del mundo, 
+estaremos presentando Autonoma.red en el marco de la Furia Anarquista.  
+Reflexionaremos sobre formas de colaborar, cocrear, coexistir y resistir en el mundo del internet. 
+
+También haremos un taller práctico para usar y habitar esta plataforma 
+y generar otras dinámicas contra las redes que no permiten el encuentro y los algoritmos que nos quieren aisladxs y cansadxs. 
+
+Construyamos juntxs una alternativa para conectarnos, conspirar y actuar! 🔥🔥
+
+{{< figure "agenda-autonoma-furia-2024-banner-cuadrado.webp" "Agenda Autónoma | La Furia [del libro y la cultura] Anarqista | 4pm, miércoles 15 de mayo 2024." "border" >}}
+
+Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/ **PENDIENTE**
+
+### Honrar tus manos, abrazar los oficios.
+
+TALLER por @tallerguarida 
+
+Invitación abierta en el marco de La Furia Anarquista para que nos acompañen martes 14 y miércoles 15 de mayo 2024
+a este taller de creación colaborativa donde el resultado será un fanzine en serigrafía. 
+
+Registro previo - Formulario en la Bio de @tallerguarida 
+
+El aporte será de 10 lk por sesión y serán 8 cupos.
+
+Fecha: 14 y 15 de Mayo 2024
+Hora: 4:00-6:00 PM
+Lugar: Cl 45 #22-55 Segundo piso de @lahoguera2255
+
+{{< figure "honrar-tus-manos-furia-2024-banner-cuadrado.webp" "Honrar tus manos, abrazar los oficios | La Furia [del libro y la cultura] Anarqista | mayo 2024." "border" >}}
+
+Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/ **PENDIENTE**
+
+### LUCHA POR EL AGUA 🔥
+
+{{< figure "luchaporelagua-2-furia-2024-banner.webp" "Lucah por el agua - Exposición | La Furia [del libro y la cultura] Anarqista | mayo 2024." "border" >}}
+
+Pueblos en Resistencia contra la devastación de la tierra. “Somos naturaleza que se venga”.
+
+**Exposición Artística**
+
+Del 14 al 20 de Mayo lxs artistas Giulia y Antonio, 
+nos compartirán la exposición audiovisual y fotográfica “Lucha por el agua”, 
+que nos presenta una propuesta estética contra la devastación del primer mundo contra la tierra, los pueblos y la naturaleza.
+
+La Valija de Fuego
+Cra 7. # 45 - 52
+
+Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/ **PENDIENTE**
+
+{{< figure "luchaporelagua-1-furia-2024-banner.webp" "Lucah por el agua - Exposición | La Furia [del libro y la cultura] Anarqista | mayo 2024." "border" >}}
