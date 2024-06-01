@@ -203,7 +203,7 @@ sectionPagesMenu = "main"
 	    [[languages.es.menu.main]]
         name = "Código de conducta"
         weight = 3
-        url = "/" 
+        url = "coc/" 
 	
   [languages.en]
   
