@@ -191,20 +191,26 @@ sectionPagesMenu = "main"
     [languages.es.menu]
 
       [[languages.es.menu.main]]
-        name = "About"
+        name = "Acerda de"
         weight = 1
         url = "/"
 
-      [[languages.es.menu.main]]
-        name = "Contact"
-        weight = 2
-        url = "contact/" 
-
 	    [[languages.es.menu.main]]
         name = "Código de conducta"
-        weight = 3
+        weight = 2
         url = "coc/" 
-	
+
+	    [[languages.es.menu.main]]
+        name = "Eventos y publicaciones"
+        weight = 3
+        url = "posts/" 
+
+      [[languages.es.menu.main]]
+        name = "Contacto"
+        weight = 4
+        url = "contact/" 
+
+
   [languages.en]
   
     languageName = "English"
