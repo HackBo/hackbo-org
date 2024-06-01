@@ -4,7 +4,7 @@ title = 'Hackbo'
 theme = "color-your-world"
 author = "@Hackbo"
 copyright = "© 2023 Hackbo"
-paginate = 3
+paginate = 4
 DefaultContentLanguage = "es"
 enableEmoji = true
 enableInlineShortcodes = true
@@ -199,6 +199,11 @@ sectionPagesMenu = "main"
         name = "Contact"
         weight = 2
         url = "contact/" 
+
+	    [[languages.es.menu.main]]
+        name = "Código de conducta"
+        weight = 3
+        url = "/" 
 	
   [languages.en]
   
