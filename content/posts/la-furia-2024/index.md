@@ -314,7 +314,7 @@ Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma
 
 ### El Futuro es Fungi
 
-{{< figure "./img/futuro-fungi-lafuria-2024.webp" "El futuro es fungi | La Furia [del libro y la cultura] Anarqista | mayo 2024." "border" >}}
+{{< figure "futuro-fungi-lafuria-2024.webp" "El futuro es fungi | La Furia [del libro y la cultura] Anarqista | mayo 2024." "border" >}}
 
 Este 16 de Mayo, desde @habitar.el.micelio participaremos en La Furia Anarquista 🔥 en @lavalijadefuego con la charla 
 “El Futuro es Fungi”, explorando otras formas de plantear y materializar nuevos mundos posibles desde y para la vida, 
@@ -329,3 +329,20 @@ Entrada Libre hasta completar aforo.
 Transmisión en vivo vía instagram en @habitar.el.micelio y @lafuriaanarquista
 
 Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/el-futuro-es-fungi
+
+### Vibraciones desde Gaza
+
+Este sábado 18 de mayo 2024, en el marco de La Furia Anarquista, 
+estaremos proyectando el documental *“Vibraciones desde Gaza”*, 
+una película que ofrece una perspectiva de las experiencias de infancias sordas 
+en el territorio costero colonizado y confinado de Gaza, en Palestina. 
+
+{{< figure "vibrations-gaza-lafuira-2024.webp" "Vibrations from Gaza | La Furia [del libro y la cultura] Anarqista | mayo 2024." "border" >}}
+
+Estas infancias, que nacieron y fueron criadas bajo el asedio y los frecuentes ataques, 
+como Amani, Musa, Israa y otros, relatan vívidamente su encuentro con los bombardeos 
+y la presencia constante de drones en sus cielos. Además, 
+contaremos con la participación del colectivo Tadamunantimili 
+quienes han denunciado cómo la industria armamentista mundial se ha lucrado del genocidio palestino. 
+
+¡Viva Palestina libre! 🇵🇸
