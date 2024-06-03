@@ -347,6 +347,8 @@ quienes han denunciado cómo la industria armamentista mundial se ha lucrado del
 
 ¡Viva Palestina libre! 🇵🇸
 
+Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/documental-vibraciones-desde-gaza
+
 ### El Anarquismo de George Woodcock 
 
 En el marco de la Furia 2024, les invitamos a participar este jueves 16 de mayo 2024, 
@@ -356,3 +358,5 @@ recientemente editado por el el proyecto Editorial Prosa del Mundo.
 Lugar: Librería Prosa del Mundo / 5:30 p.m.
 
 {{< figure "woodcock-lectura-lafuria-2024.webp" "El Anarquismo de George Woodcock | La Furia [del libro y la cultura] Anarqista | mayo 2024." "border" >}}
+
+Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/el-anarquismo-de-george-woodcock
