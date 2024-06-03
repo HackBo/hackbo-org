@@ -311,3 +311,21 @@ Taller por: [ruYdo](https://ruydo.xyz) + Hackbo
 más info en [Cuidados digitales y redes descentralizadas](./cuidados-digitales-redes-descentralizadas) 
 
 Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/cuidados-digitales-y-redes-descentralizadas
+
+### El Futuro es Fungi
+
+{{< figure "./img/futuro-fungi-lafuria-2024.webp" "El futuro es fungi | La Furia [del libro y la cultura] Anarqista | mayo 2024." "border" >}}
+
+Este 16 de Mayo, desde @habitar.el.micelio participaremos en La Furia Anarquista 🔥 en @lavalijadefuego con la charla 
+“El Futuro es Fungi”, explorando otras formas de plantear y materializar nuevos mundos posibles desde y para la vida, 
+en colaboración con y desde las lógicas de los hongos.
+
+Asistencia presencial:
+Librería la Valija de Fuego
+Cra. 7# 45 - 52
+Jueves 16 de Mayo 2024 - 5:00pm
+Entrada Libre hasta completar aforo.
+
+Transmisión en vivo vía instagram en @habitar.el.micelio y @lafuriaanarquista
+
+Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/el-futuro-es-fungi
