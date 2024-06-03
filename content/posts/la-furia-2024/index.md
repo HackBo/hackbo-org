@@ -346,3 +346,13 @@ contaremos con la participación del colectivo Tadamunantimili
 quienes han denunciado cómo la industria armamentista mundial se ha lucrado del genocidio palestino. 
 
 ¡Viva Palestina libre! 🇵🇸
+
+### El Anarquismo de George Woodcock 
+
+En el marco de la Furia 2024, les invitamos a participar este jueves 16 de mayo 2024, 
+de un círculo de lectura y discusión en torno al texto de Woodcock, 
+recientemente editado por el el proyecto Editorial Prosa del Mundo. 
+
+Lugar: Librería Prosa del Mundo / 5:30 p.m.
+
+{{< figure "woodcock-lectura-lafuria-2024.webp" "El Anarquismo de George Woodcock | La Furia [del libro y la cultura] Anarqista | mayo 2024." "border" >}}
