@@ -301,3 +301,13 @@ Aporte solidario: 10k (para cubrir el costo de materiales).
 {{< figure "papel-hongo-furia-2024-banner.webp" "Hacer papel con hongos | La Furia [del libro y la cultura] Anarqista | mayo 2024." "border" >}}
 
 Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/hacer-papel-con-hongos-taller
+
+### CUIDADOS DIGITALES Y REDES DESCENTRALIZADAS
+
+Taller por: [ruYdo](https://ruydo.xyz) + Hackbo
+
+{{< figure "../cuidados-digitales-redes-descentralizadas/img/cuidados-digitales-lafuria-2024.webp" "Cuidados digitales y redes descentralizadas | La Furia [del libro y la cultura] Anarqista | mayo 2024." "border" >}}
+
+más info en [Cuidados digitales y redes descentralizadas](./cuidados-digitales-redes-descentralizadas) 
+
+Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/cuidados-digitales-y-redes-descentralizadas
