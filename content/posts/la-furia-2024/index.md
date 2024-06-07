@@ -360,3 +360,89 @@ Lugar: Librería Prosa del Mundo / 5:30 p.m.
 {{< figure "woodcock-lectura-lafuria-2024.webp" "El Anarquismo de George Woodcock | La Furia [del libro y la cultura] Anarqista | mayo 2024." "border" >}}
 
 Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/el-anarquismo-de-george-woodcock
+
+### Encuentro de lectura colectiva, del libro: Mujer, Vida, Libertad
+
+Les invitamos a participar del encuentro de lectura colectiva, 
+del libro: Mujer, Vida, Libertad - Desde el corazón de las mujeres libres de Kurdistán. 
+
+{{< figure "vida-mujer-liberta-lafuria-2024.webp" "Lectura colectiva Mujer, Vida, Libertad | La Furia [del libro y la cultura] Anarquista | mayo 2024." "border" >}}
+
+Este jueves 16 de Mayo 2024 a las 6 p.m. en el Marco de La Furia Anarquista 2024 🔥🔥.
+
+Es un encuentro para mujeres, personas trans y no binarixs. 
+Evento con inscripción previa.
+
+Todos los detalles logísticos se enviarán a las personas inscritas.
+
+El libro se encuentra a la venta en diferentes librerías de Bogotá 
+como Prosa del Mundo, La Valija de Fuego, Distribuidora Libertaria Rojinegro, 
+Hojas de Parra, o directamente con personas del Comité o las editoriales. 
+Además, se encuentra disponible en pdf en este enlace 
+https://archive.org/details/mujer-vida-libertad-2a-edicion-digital_202212
+
+Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/lectura-colectiva-del-libro-mujer-vida-libertad-4 
+
+### BOSQUE OKUPA
+
+Ocho años de Autogestión
+
+{{< figure "bosque-okupa-furia-2024.webp" "Bosque Okupa 8 años Charla | La Furia [del libro y la cultura] Anarquista | mayo 2024." "border" >}}
+
+Este 16 de Mayo estaremos presentando en La Furia el archivo visual, 
+las historias de resistencia y el proceso de autogestión y acción directa durante los últimos ocho años, 
+que han dado vida a las prácticas y al ecosistema del Bosque Okupa.
+
+Un bosque en medio del casco urbano de Bogotá, que retoma las tierras violentadas desde la colonia, 
+contra el extractivismo y la depredación humana, el bosque es un organismo que okupa y se resiste a morir.
+
+Les esperamos en @laredada, Cll. 17 # 2 - 51. 
+a las 6 p.m. para compartir y crear formas de resistir!! 🔥🔥🔥
+
+Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/bosque-okupa-ocho-anos-de-autogestion 
+
+### Indeterminar el género, indeterminar la vida.
+
+Encuentro y conversación 
+
+- Viernes 17 de mayo
+- 2:00 a 3:00 p.m.
+- En @laredada Cll. 17 # 2 - 51.
+
+{{< figure "indeterminar-genero-lafuria-2024.webp" "Indeterminar el género, indeterminar la vida | La Furia [del libro y la cultura] Anarquista | mayo 2024." "border" >}}
+
+Un espacio de encuentro y conversación sobre nuestras ideas, experiencias y propuestas 
+inconformes con las categorías de género, y sobre cómo ellas son espacio propicio para la creación 
+y la emergencia de otras comprensiones de la vida y la naturaleza, 
+que acojan su naturaleza ácrata de formas que a su vez sobrepasen las limitaciones 
+que aún en espacios anarquistas impone el cis-hetero-patriarcado. 
+
+Queremos proponer un espacio para acompañarnos y hablar sobre 
+género, feminismos, anarquismos, antropocentrismo y otrxs, 
+para tomarnos espacios políticos que también deben mutar, diversificarse. 
+Será un espacio para personas con experiencia de género no conforme, 
+en el que participaremos Martín André @martin_contilde de @alienhadas_ y @atac_colombia , 
+Claudix Vanesix @claudixvanesix de @amixr.xr y Nat @natalialarivera de @mutantelab .
+
+Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/indeterminar-el-genero-indeterminar-la-vida 
+
+### Anarkiza La Pank 
+
+🏴‍☠️ 𝑨𝑵𝑨𝑹𝑲𝑰𝒁𝑨 𝑳𝑨 𝑷𝑨𝑵𝑲! 𝑬𝑫𝑰𝑪𝑰Ó𝑵 𝑺𝑰𝑴𝑼𝑳𝑻Á𝑵𝑬𝑨 𝑩𝑶𝑮𝑶𝑻Á - 𝑲𝑰𝑻𝑼 (𝑹É𝑷𝑳𝑰𝑪𝑨 𝑺𝑻𝑮𝑶, $𝑯𝑰𝑳𝑬) 🏴‍☠️
+
+{{< figure "anarkiza-lafuria-2024.webp" "Anarkiza La Pank | La Furia [del libro y la cultura] Anarquista | mayo 2024." "border" >}}
+
+En el marco de la Furia compartimos Anarquiza la Pank!! 🔥🔥🏴, 
+un espacio de encuentros entre varios territorios, lleno de diversas actividades.
+Durante este sábado 18, Bogotá en Kasa Mutante X.
+
+[ Charla ] 
+
+Conversación y discusión sobre las ideas anarquistas, el punk y el anarcopunk. 
+Cómo lo vivimos en cada territorio, experiencias y críticas. 
+Dándonos insumos para la realización de un fanzine en conjunto entre kito y Bogotá. 
+Bajo el mismo nombre, “anarkiza la pank”. Procura qué viva la anarquia.
+
+Lugar y fecha: Kasa Mutante X Calle 24 # 5 - 75, 12pm, 18 de Mayo 2024.
+
+Puedes agregar este vento en tu calendario visita autonoma.red: https://autonoma.red/event/skull-and-bones-o-a-a-e-dollar-skull-and-bones 
