@@ -29,6 +29,7 @@ de escoger la película entre todxs y preparar el espacio.
 
 {{< figure "hackbo-cinema-2024-06-22-banner-cuadrado.webp" "Cinema HackBo: Cine de comedia | Sabado 22 de junio 2024" "border" >}}
 
+Puedes agregar este evento en tu calendario personal visita: https://autonoma.red/event/cinema-hackbo-2
 
 ## Versiones pasadas
 
