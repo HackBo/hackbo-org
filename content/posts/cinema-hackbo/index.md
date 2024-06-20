@@ -6,7 +6,7 @@ description     : "Cinema HackBo."
 
 date            : 2024-01-27
 
-tags            : [ cine, audiovisual, film ]
+tags            : [ cine, audiovisual, film, cinema hackbo ]
 
 ---
 
@@ -25,7 +25,7 @@ de escoger la película entre todxs y preparar el espacio.
 
 **Lugar**: HackBo | Calle 44 # 8-50 Of. 201.
 
-**Fecha**: Viernes 26 de enero 2024, de 06:00 PM a 08:00 PM.
+**Fecha**: Sabado 22 de junio 2024, de 06:00 PM a 08:00 PM.
 
 {{< figure "hackbo-cinema-2024-06-22-banner-cuadrado.webp" "Cinema HackBo: Cine de comedia | Sabado 22 de junio 2024" "border" >}}
 
