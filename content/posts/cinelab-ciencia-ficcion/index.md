@@ -6,7 +6,7 @@ description     : "Taller de Cine y Ciencia Ficción para niños de 9 a 12 años
 
 date            : 2016-02-10
 
-tags            : [ taller, talleres, cine, cinelab, lapar, ciencia ficción ]
+tags            : [ taller, talleres, cine, cinelab, lapar, ciencia ficción, Cinema HackBo ]
 
 ---
 

@@ -6,7 +6,7 @@ description     : "Cinema HackBo | Día internacional del hackerspace abierto"
 
 date            : 2024-04-01
 
-tags            : [ cine, audiovisual, film, día internacional del hackerspace abierto ]
+tags            : [ cine, audiovisual, film, día internacional del hackerspace abierto, Cinema HackBo ]
 
 ---
 

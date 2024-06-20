@@ -6,7 +6,7 @@ description     : "Cinema de coortos Festival y feria del libro y la cultura ana
 
 date            : 2024-05-07
 
-tags            : [ anarquismo, talleres, libro, feria, festival, anarquia, LaFuria, cine ]
+tags            : [ anarquismo, talleres, libro, feria, festival, anarquia, LaFuria, cine, Cinema HackBo ]
 
 ---
 

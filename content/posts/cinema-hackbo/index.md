@@ -6,7 +6,7 @@ description     : "Cinema HackBo."
 
 date            : 2024-01-27
 
-tags            : [ cine, audiovisual, film, cinema hackbo ]
+tags            : [ cine, audiovisual, film, Cinema HackBo ]
 
 ---
 
@@ -33,7 +33,7 @@ de escoger la película entre todxs y preparar el espacio.
 ## Versiones pasadas
 
 Cinema HackBo es un evento que realizamos en varias ediciones y con diferentes enfoques
-puedes ver veriones pasadas en la etiqueta [Cine](https://hackbo.org/tags/cine/) o la siguiente lista:
+puedes ver veriones pasadas en la etiqueta [Cinema HackBo](https://hackbo.org/tags/cine/) o la siguiente lista:
 
 ### Cinema HackBo 📽 | Viernes 26 de enero 2024 
 

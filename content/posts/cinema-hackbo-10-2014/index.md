@@ -6,7 +6,7 @@ description     : "Cinema HackBo. Ciclo: Animación invisible... para ver con el
 
 date            : 2014-10-01
 
-tags            : [ cine, audiovisual, film, cinema, cineforo ]
+tags            : [ cine, audiovisual, film, cinema, cineforo, Cinema HackBo ]
 
 ---
 
