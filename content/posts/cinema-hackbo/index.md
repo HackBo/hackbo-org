@@ -10,7 +10,7 @@ tags            : [ cine, audiovisual, film ]
 
 ---
 
-# Cinema HackBo | 2024
+# Cinema HackBo | Cine de Comedia
 
 Cinema HackBo es un espacio
 donde nos reunimos a compartir películas y conversar.
@@ -31,6 +31,9 @@ de escoger la película entre todxs y preparar el espacio.
 
 
 ## Versiones pasadas
+
+Cinema HackBo es un evento que realizamos en varias ediciones y con diferentes enfoques
+puedes ver veriones pasadas en la etiqueta [Cine](https://hackbo.org/tags/cine/) o la siguiente lista:
 
 ### Cinema HackBo 📽 | Viernes 26 de enero 2024 
 
