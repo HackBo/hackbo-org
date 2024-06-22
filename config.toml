@@ -5,7 +5,7 @@ theme = "color-your-world"
 author = "@Hackbo"
 copyright = "© 2023 Hackbo"
 paginate = 4
-#DefaultContentLanguage = "es"
+DefaultContentLanguage = "es"
 enableEmoji = true
 enableInlineShortcodes = true
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
