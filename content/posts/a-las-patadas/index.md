@@ -23,4 +23,9 @@ hará parte de la colección bibliográfica de Hackbo, gracias al apoyo de Gabri
 
 Les esperamos este jueves a las 6 p.m. para conversar, compartir y seguir construyendo esta biblioteca para todxs.
 
-Entrada libre con inscripción previa en: https://is.gd/hackboalaspatadas
+Entrada libre con inscripción previa.
+
+- **Fecha**: 6 P.M. Jueves 04 de Julio, 2024.
+- **Lugar**: HackBo, Calle 44 # 8 - 50. Of. 201.
+- **Inscripción**: https://is.gd/hackboalaspatadas
+
