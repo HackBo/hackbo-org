@@ -28,4 +28,11 @@ con objetos, con otras criaturas vivas y no-vivas y con nosotros mismos.
 - Fecha: Jueves 18 de Julio, 6PM a 8PM.
 - **Inscripciones**: https://is.gd/wld2024
 
+También visita 
+
+- https://ruydo.xyz/entretejer-vibraciones-pronto
+- https://worldlisteningday.org/events/entretejer-vibraciones-pronto-ruydo-hackbo/
+
+Puedes agregar este evento en tu calendario visitando: https://autonoma.red/event/entretejer-vibraciones-pronto-or-dia-mundial-de-la-escucha-2024
+
 {{< figure "entretejer-vibraciones-pronto-wld-2024-poster.webp" "Entretejer Vibraciones Pronto. Poster" "border" >}}
