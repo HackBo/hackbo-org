@@ -2,7 +2,7 @@
 
 title           : "Anarquismos en Colombia | Archivo HackBo"
 
-description     : "Conversatorio sobre anarquismos en colombia y el Diccionario Anarquista de Emergencia, por Iván Darío Álvarez."
+description     : "Conversatorio sobre anarquismos en colombia por Iván Darío Álvarez."
 
 date            : 2024-07-21
 
