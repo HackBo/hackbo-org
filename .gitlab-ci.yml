@@ -16,12 +16,12 @@ variables:
   GIT_SUBMODULE_STRATEGY: recursive
   HUGO_ENV: production
 
-default:
-  before_script:
-    - apk add --update --no-cache git go
-    - git submodule update --init --recursive
-    - hugo mod init gitlab.com/pages/hugo
-    - hugo mod get -u github.com/theNewDynamic/gohugo-theme-ananke
+# default:
+#   before_script:
+#     - apk add --update --no-cache git go
+#     - git submodule update --init --recursive
+#     - hugo mod init gitlab.com/pages/hugo
+#     - hugo mod get -u github.com/theNewDynamic/gohugo-theme-ananke
 
 test:
   script:
@@ -31,7 +31,7 @@ test:
 
 pages:
   script:
-    - hugo
+    - hugo --gc --minify
   artifacts:
     paths:
       - public
