@@ -10,6 +10,8 @@ HackBo, un hackerspace en Bogotá, un espacio
 auto-gestionado en comunidad donde nos reunimos a hacer cosas con tecnologías digitales por activismo, 
 lucro y/o placer.
 
+[→ Hackerismos Indisciplinados](./posts/hackerismos-indisciplinados)
+
 ![Página web de HackBo](../hackbo_lantern.png)
 
 ## Somos
