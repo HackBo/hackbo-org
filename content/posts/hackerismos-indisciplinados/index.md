@@ -2,7 +2,7 @@
 
 title           : "Hackerismos indisciplinados"
 
-description     : "Circuitos de talleres y exposición de arte, ciencia y tecnología."
+description     : "Circuito de talleres y exposición de arte, ciencia y tecnología."
 
 date            : 2024-08-15
 
@@ -45,4 +45,3 @@ Entrada libre con previa inscripción **Próximamente enlace de inscripción a a
 Del 23 de agosto al 10 de noviembre 2024.
 
 {{< figure "01-hackbo-hackerismos.webp" "Hackerismos Indisciplinados del 23 de agosto al 10 de noviembre 2024." "border" >}}
-
