@@ -200,11 +200,11 @@ sectionPagesMenu = "main"
         weight = 2
         url = "coc/" 
 
-	    [[languages.es.menu.main]]
-        name = "Hackerismos Indisciplinados"
-        weight = 3
-        url = "indisciplinados/" 
-
+	    # [[languages.es.menu.main]]
+     #    name = "Hackerismos Indisciplinados"
+     #    weight = 3
+     #    url = "indisciplinados/" 
+					#
       [[languages.es.menu.main]]
         name = "Contacto"
         weight = 4
