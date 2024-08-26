@@ -12,8 +12,6 @@ tags            : [ talleres, laboratorios, exposición, hackerismos, indiscipli
 
 ## Hackerismo indisciplinados
 
-{{< figure "01-hackbo-hackerismos.webp" "Hackerismos Indisciplinados del 23 de agosto al 10 de noviembre 2024." "border" >}}
-
 Hackerismos Indisciplinados es un circuito de formación, circulación y 
 comercialización para proyectos artísticos locales que proponen 
 una mirada y exploración crítica de las artes 
@@ -46,3 +44,4 @@ Entrada libre con previa inscripción **Próximamente enlace de inscripción a a
 
 Del 23 de agosto al 10 de noviembre 2024.
 
+{{< figure "01-hackbo-hackerismos.webp" "Hackerismos Indisciplinados del 23 de agosto al 10 de noviembre 2024." "border" >}}
