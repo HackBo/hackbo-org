@@ -12,7 +12,17 @@ tags            : [ talleres, laboratorios, exposición, hackerismos, indiscipli
 
 ## Fundación Visonte
 
-### Taller 1: Fabulando a través del bordado
+### Taller 2: Fabulando a través del bordado (2do encuentro)
+
+{{< figure "05-hackbo-hackerismos-06Sep-01.webp" "Fabulando a través del bordado 6 de septiembre 2024, 6pm | Hackerismos Indisciplinados del 23 de agosto al 10 de noviembre 2024." "border" >}}
+
+En este segundo encuentro, desde la fabulación especulativa 
+se elaborará un texo con libertad de género literario 
+a partir de un personaje creado y el bordado como tejido colectivo y narrativo.
+
+Entrada libre para todxs, con inscripción previa en https://is.gd/fabulacion2
+
+### Taller 1: Fabulando a través del bordado (1er encuentro)
 
 {{< figure "02-hackbo-visonte-01.webp" "Fabulando a través del bordado 24 de agosto 2024, 6pm | Hackerismos Indisciplinados del 23 de agosto al 10 de noviembre 2024." "border" >}}
 
