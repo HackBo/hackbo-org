@@ -18,7 +18,7 @@ https://youtube.com/ardicomplot
 
 {{< figure "04-hackbo-hackerismos-12Sep-correccion-02.webp" "¿Cómo transcribo este ritmo? 12 de septiembre 2024, 6pm | Hackerismos Indisciplinados del 23 de agosto al 10 de noviembre 2024." "border" >}}
 
-Invitamos a todxs y especialmente a lxs CompLover, 
+Invitamos a todxs y especialmente a lxs ComplotLovers, 
 a participar de este divertido taller de Ardi Complot "¿Cómo transcribo este ritmo?", 
 un espacio donde aprenderemos y exploraremos el sonido, la lectura y la composición musical a través de objetos de lo cotidiano.
 
