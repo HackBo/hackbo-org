@@ -1,6 +1,6 @@
 ---
 
-title           : "La Globale  - Hackerismos Indisciplinados"
+title           : "Festival internacional de cine documental Globale Bogotá  - Hackerismos Indisciplinados"
 
 description     : "Circuito de talleres y exposición de arte, ciencia y tecnología."
 
