@@ -12,6 +12,8 @@ tags            : [ archivo, biblioteca, libros, anarquía, charla, conversatori
 
 ## Anarquismos en Colombia
 
+[![Anarquismos en Colombia Youtube Video](/posts/anarquismos-colombia/img/youtube-preview.jpg)](https://youtu.be/3NCsbeZma6s?si=tM7SejBLIkNrm-q_)
+
 Este Viernes 26 de Julio, a las 6 p.m. 
 estaremos conversando junto a Iván Darío Álvarez, dramaturgo y titiritero ácrata desde la década de los 70s. 
 Quien en solidaridad con la construcción del archivo de la biblioteca de Hackbo, 
@@ -25,3 +27,4 @@ Evento libre con inscripción.
 - Inscripción: https://is.gd/anarquismoscol
 
 {{< figure "anarquismos-colombia-archivo-hackbo-banner-cuadrado.webp" "Anarquismos en Colombia, Archivo HackBo 2024" "border" >}}
+
