@@ -16,10 +16,10 @@ variables:
   HUGO_ENV: production
   THEME_URL: "github.com/theNewDynamic/gohugo-theme-ananke"
 
-# default:
-#   before_script:
-#     - apk add --update --no-cache git go
-#     - git submodule update --init --recursive
+default:
+  before_script:
+    - apk add --update --no-cache git go
+    - git submodule update --init --recursive
 #     - hugo mod init gitlab.com/pages/hugo
 #     - hugo mod get -u github.com/theNewDynamic/gohugo-theme-ananke
 
