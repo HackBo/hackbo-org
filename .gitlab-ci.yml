@@ -6,15 +6,15 @@
 #   All available Hugo versions are listed under https://gitlab.com/pages/hugo/container_registry.
 # - Read about the difference between hugo and hugo_extended
 #   https://gitlab.com/pages/hugo/-/blob/main/README.md#hugo-vs-hugo_extended.
+#   If you don't know what to use, better use the extended version.
 # - To change the theme, see
 #   https://gitlab.com/pages/hugo/-/blob/main/README.md#use-a-custom-theme.
 #
 image: registry.gitlab.com/pages/hugo/hugo_extended:latest
 
-# Set this if you intend to use Git submodules
 variables:
-  GIT_SUBMODULE_STRATEGY: recursive
   HUGO_ENV: production
+  THEME_URL: "github.com/theNewDynamic/gohugo-theme-ananke"
 
 # default:
 #   before_script:
@@ -23,12 +23,14 @@ variables:
 #     - hugo mod init gitlab.com/pages/hugo
 #     - hugo mod get -u github.com/theNewDynamic/gohugo-theme-ananke
 
+# Use everywhere except on the default branch
 test:
   script:
-    - hugo
+    - hugo --minify
   rules:
     - if: $CI_COMMIT_REF_NAME != $CI_DEFAULT_BRANCH
 
+# Run only on the default branch
 pages:
   script:
     - hugo --gc --minify
